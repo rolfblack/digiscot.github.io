@@ -6,7 +6,8 @@ excerpt: Support group to help adults with aphasia explore the benefits of techn
 lead: Dundee Augmentative and Alternative Communication (AAC) Research Group, University of Dundee
 website:
 email: 
-twitter-url: facebook-url: 
+twitter-url: 
+facebook-url: 
 start: May 2015
 end: November 2015
 award: £7250
@@ -24,6 +25,12 @@ In light of the growing potential of iPads (and other mobile technologies) to me
 
 ## Project milestones
 
+###Drop-in Sessions for Technical Support
+
+We have established weekly drop in sessions for anyone with a tablet (Android and iOS) to come in for technical support:
+<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/tapandtalk/posts/1454669071500573:0" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/tapandtalk/posts/1454669071500573:0"><p>Drop-in session of &#039;Tap and Talk&#039; in the User Centre at the School of Computing. Next drop-in session is scheduled to Friday, 26 June, 10-12. Please check back here though since graduation is on that day!</p>Posted by <a href="https://www.facebook.com/tapandtalk">Tap and Talk</a> on&nbsp;<a href="https://www.facebook.com/tapandtalk/posts/1454669071500573:0">Friday, 19 June 2015</a></blockquote></div></div>
+
+More info on our website: http://aac.dundee.ac.uk/tap-and-talk/
 
 
 ## Evaluation
@@ -42,9 +49,7 @@ In terms of outcomes for the people and groups we care about, this project has P
 
 Things that worked well:
 
-1. Text
-2. Text
-3. Text
+1. Email communication using a Google group. 
 
 Things that we would do differently next time:
 
