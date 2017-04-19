@@ -99,3 +99,13 @@ Communication Matters 2015 presentation:
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Good start to the day <a href="https://twitter.com/hashtag/cm2015conf?src=hash">#cm2015conf</a> with <a href="https://twitter.com/tap_and_talk">@Tap_and_Talk</a>: Lovely reactions from the audience and great feedback. <a href="http://t.co/ACLjMDAnad">pic.twitter.com/ACLjMDAnad</a></p>&mdash; Dundee AAC Research (@DundeeAAC) <a href="https://twitter.com/DundeeAAC/status/643458957755990016">September 14, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+#### Animation Workshop
+
+In 2016 during an 8 week workshop with Andrew Low, initiated by Chris Kelly (THAT), the Tap and Talk Aphasia iPad Group have created two animation short films about aphasia. 
+
+The workshop was made possible through funding by the NHS Tayside Healthcare Arts Trust THAT with support of Computing at the School of Science and Engineering, University of Dundee, and the volunteers that donated their time. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uYceJRT69fs" frameborder="0" allowfullscreen></iframe>
+
+Find the videos and further information on the Tap and Talk website: http://aac.dundee.ac.uk/tap-and-talk/animation-workshop/
